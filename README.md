@@ -33,6 +33,13 @@ This repository contains the source code for a simple yet effective To-Do List a
    flutter run
    ```
 
+## Screenshots
+<p align="center">
+<img src="assets/screenshot1.png" width="200"/>
+<img src="assets/screenshot2.png" width="200"/>
+<img src="assets/screenshot3.png" width="200"/>
+</p>
+
 ## Usage
 
 - **Adding a Task**: Tap the floating action button to open the task creation dialog. Enter the task name, select its priority, and hit 'Save' to add it to your list.
